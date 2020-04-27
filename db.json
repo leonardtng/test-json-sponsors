@@ -4,16 +4,6 @@
             "id": 0,
             "name": "Boogle",
             "img": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/sponsors/boogle.png"
-        },
-                {
-            "id": 1,
-            "name": "Something",
-            "img": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/sponsors/boogle.png"
-        },
-        {
-            "id": 2,
-            "name": "Something2",
-            "img": "https://boogle-streaming-storage.s3-ap-southeast-1.amazonaws.com/sponsors/boogle.png"
         }
     ]
 }
